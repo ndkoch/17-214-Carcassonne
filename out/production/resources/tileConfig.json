@@ -1,0 +1,628 @@
+{
+  "tiles": [
+    {
+      "letter": "A",
+      "count": 2,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N",
+            "E",
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "true"
+    },
+    {
+      "letter": "B",
+      "count": 4,
+      "segments": [
+        {
+          "type": "FIELD",
+          "locations": [
+            "S",
+            "N",
+            "E",
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "true"
+    },
+    {
+      "letter": "C",
+      "count": 1,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "S",
+            "N",
+            "E",
+            "W"
+          ],
+          "shield": "true"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "D",
+      "count": 4,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "S",
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "E",
+      "count": 5,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "E",
+            "S",
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "F",
+      "count": 2,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "E"
+          ],
+          "shield": "true"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "G",
+      "count": 1,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "N",
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "H",
+      "count": 3,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N",
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "I",
+      "count": 2,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N",
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "J",
+      "count": 3,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "S",
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "K",
+      "count": 3,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "W",
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "L",
+      "count": 3,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "CITY",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "M",
+      "count": 2,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N"
+          ],
+          "shield": "true"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "E",
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "N",
+      "count": 3,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "E",
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "O",
+      "count": 2,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N"
+          ],
+          "shield": "true"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "E",
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "P",
+      "count": 3,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "E",
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "Q",
+      "count": 1,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N",
+            "E"
+          ],
+          "shield": "true"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "R",
+      "count": 3,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N",
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "S",
+      "count": 2,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N",
+            "E"
+          ],
+          "shield": "true"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "T",
+      "count": 1,
+      "segments": [
+        {
+          "type": "CITY",
+          "locations": [
+            "W",
+            "N",
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "U",
+      "count": 8,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "N",
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "V",
+      "count": 9,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "W",
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N",
+            "E"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "W",
+      "count": 4,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "FIELD",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    },
+    {
+      "letter": "X",
+      "count": 1,
+      "segments": [
+        {
+          "type": "ROAD",
+          "locations": [
+            "W"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "S"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "E"
+          ],
+          "shield": "false"
+        },
+        {
+          "type": "ROAD",
+          "locations": [
+            "N"
+          ],
+          "shield": "false"
+        }
+      ],
+      "monastery": "false"
+    }
+  ]
+}
